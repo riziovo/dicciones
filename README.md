@@ -5,7 +5,8 @@ This is a Key Value store at its core , powered by LLFIOS for persistence, but c
 
 This is a <b>work in progress</b>
 
-<b> Future Goal </b>
+
+<b>#Future Goal </b>
 
 -Add Update function
 
